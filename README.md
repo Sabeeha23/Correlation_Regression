@@ -3,17 +3,13 @@
 Developed by : Sabeeha Shaik
 
 Register Number : 212223230176
-
 # Aim : 
 
 To analyse given data using coeffificient of correlation and regression line
 ![image](https://user-images.githubusercontent.com/104613195/168224136-d6b64e64-7d3d-4775-9337-c8f96fe41f2d.png)
-
-
 # Software required :  
 
 Python
-
 # Theory:
 
 Correlation describes the strength of an association between two variables, and is completely symmetrical, the correlation between A and B is the same as the correlation between B and A. However, if the two variables are related it means that when one changes by a certain amount the other changes on an average by a certain amount.  
@@ -23,9 +19,7 @@ If y represents the dependent variable and x the independent variable, this rela
 # Procedure :
 
 ![image](https://user-images.githubusercontent.com/104613195/168225866-ac8f6610-bdc3-4ac2-a24e-2b24ba08e189.png)
-
 # Program :
-
 Developed by : Sabeeha Shaik
 
 Register Number : 212223230176
@@ -63,9 +57,6 @@ plt.xlabel('x-data')
 plt.ylabel('y-data')
 plt.legend(['Regression Line','Data points'])
 ```
-
-
-
 # Output 
 
 ![alt text](<Screenshot 2024-04-09 214127.png>)
